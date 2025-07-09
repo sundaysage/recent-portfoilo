@@ -9,26 +9,43 @@ const projects = [
     title: 'Portfolio Website',
     description: 'A modern  portfolio built with Next.js, Tailwind CSS, Framer Motion, and fully responsive design.',
     tech: ['Next.js', 'Tailwind', 'Framer Motion'],
-    image: '/projects/portfolio.jpg', // Add this image to your public/projects folder
+    image: '/port.png', 
     github: 'https://github.com/sundaysage/oil.git',
     demo: 'https://your-portfolio.vercel.app'
+    // demo: 'https://your-portfolio.vercel.app'
   },
   {
     title: 'Company Portfolio Website',
     description: 'A company portfolio built with Next.js, Tailwind CSS, Framer Motion, and fully responsive design.',
     tech: ['Next.js', 'Tailwind', 'Framer Motion'],
-    image: '/projects/portfolio.jpg', // Add this image to your public/projects folder
+    image: '/Dlc.png',
     github: 'https://github.com/sundaysage/oil-and-gas.git',
     demo: 'https://www.dlcexploration.com/'
   },
   {
-    title: 'E-commerce Dashboard',
-    description: 'Admin dashboard for managing products, orders and users, featuring charts and authentication.',
-    tech: ['React', 'Tailwind', 'Chart.js'],
-    image: '/projects/ecommerce.jpg',
-    github: 'https://github.com/yourusername/ecommerce-dashboard',
-    demo: 'https://ecommerce-admin.vercel.app'
+    title: 'Constuction company portfolio',
+    description: 'Building  Construction portfolio site ,that show case past project built by the construction, their story and their clients and options to contact them .',
+    tech: ['React', 'Tailwind', 'framer motion'],
+    image: '/Construction.png',
+    github: '/',
+    demo: 'https://www.buildingnow.com/'
   },
+  {
+    title: 'Hospital Management System',
+    description: 'This hospital management use for registering and storing clients information .',
+    tech: ['React', 'Tailwind', 'Chart.js'],
+    image: '/hospital.png',
+    github: 'https://github.com/yourusername/ecommerce-dashboard',
+    demo: 'https://hospitalseparated.netlify.app/'
+  },
+  // {
+  //   title: 'E-commerce Dashboard',
+  //   description: 'Admin dashboard for managing products, orders and users, featuring charts and authentication.',
+  //   tech: ['React', 'Tailwind', 'Chart.js'],
+  //   image: '/projects/ecommerce.jpg',
+  //   github: 'https://github.com/yourusername/ecommerce-dashboard',
+  //   demo: 'https://ecommerce-admin.vercel.app'
+  // },
   // Add more projects here
 ]
 
